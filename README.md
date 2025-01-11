@@ -11,6 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emulusoy&show_icons=true&locale=en&layout=compact" alt="emulusoy" /></p>
 
+<p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emulusoy&show_icons=true&locale=en" alt="emulusoy" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <ul align="left">
