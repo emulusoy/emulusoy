@@ -1,4 +1,4 @@
-<h1 align="center">Mustafa  Ulusoy</h1>
+<h1 align="center">Mustafa Ulusoy</h1>
 <h3 align="center">I am a management information systems student. I graduated from high school in the field of information technologies.</h3>
 
 
