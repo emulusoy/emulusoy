@@ -1,5 +1,27 @@
 <h1 align="center">Profile Hoş geldin Mustafa Ulusoy</h1>
-<h3 align="center">Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Kendimi yazılım üzerinde geliştiriyorum. Backend tarafında .Net Core Frontend tarafında ise Next.js React kodluyorum</h3>
+<h3 align="center">Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Eğitimim boyunca odağımı yazılıma verdim; derslerin yanı sıra Udemy gibi platformlardaki kurslarla kendimi sürekli geliştirdim.
+
+🚀 Odak Alanlarım
+
+Backend: C#, ASP.NET Core (mimari odaklı), REST API’ler
+
+Frontend: React, Next.js, TypeScript
+
+MERN: React, JavaScript, Node.js, MongoDB
+
+Diğer: Redux, React Hooks, Material UI, Dapper, SQL/Mongo sorguları
+
+🧑‍💻 Deneyim & Projeler
+
+MERN yığını kullanan bir yazılım firmasında staj deneyimi edindim.
+
+Ağırlıklı olarak backend tarafında üretim yapıyor, ASP.NET Core mimarilerine odaklanıyorum.
+
+Next.js + TypeScript ile e-ticaret odaklı projeler geliştirdim.
+
+API’lerle çalışan, veri setleri kullanan uygulamalar ve Dapper/Mongo/SQL sorguları içeren çalışmalarım mevcut.
+
+Bir firmayla yaptığım teknik görüşmeye ait bir case çalışmam da bulunuyor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="emulusoy" /> </p>
 
