@@ -21,7 +21,7 @@ Next.js + TypeScript ile e-ticaret odaklı projeler geliştirdim.
 
 API’lerle çalışan, veri setleri kullanan uygulamalar ve Dapper/Mongo/SQL sorguları içeren çalışmalarım mevcut.
 
-Bir firmayla yaptığım teknik görüşmeye ait bir case çalışmam da bulunuyor.</h3>
+Firmalarla  yaptığım teknik görüşmeye ait bir case çalışmalarim da bulunuyor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="emulusoy" /> </p>
 
