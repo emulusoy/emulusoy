@@ -25,7 +25,6 @@ Firmalarla  yaptığım teknik görüşmeye ait case çalışmalarim da bulunuyo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="emulusoy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emucoins" target="blank"><img src="https://img.shields.io/twitter/follow/emucoins?logo=twitter&style=for-the-badge" alt="emucoins" /></a> </p>
 
 - 🔭 Onion + CQRS + JWT + Redis + EF Core/PostgreSQL + Logging & Global Exception [Redis_JWT Case](https://github.com/emulusoy/Redis_JWT)
 
