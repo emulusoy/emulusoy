@@ -1,7 +1,7 @@
 <h1 align="center">Mustafa Ulusoy</h1>
 <h3 align="center">Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Eğitimim boyunca odağımı yazılıma verdim; derslerin yanı sıra Udemy gibi platformlardaki kurslarla kendimi sürekli geliştirdim.
 
-🚀 Odak   Alanlarım
+Odak   Alanlarım
 
 Backend: C#, ASP.NET Core (mimari odaklı), REST API’ler
 
