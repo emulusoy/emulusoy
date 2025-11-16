@@ -1,7 +1,6 @@
-<h1 align="center">Mustafa Ulusoy</h1>
-<h3 align="center">Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Eğitimim boyunca odağımı yazılıma verdim; derslerin yanı sıra Udemy gibi platformlardaki kurslarla kendimi sürekli geliştirdim.
+<h1 align="center">Mustafa Ulusoy</h1> <h3 align="center">Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Eğitimim boyunca odağımı yazılıma verdim; derslerin yanı sıra Udemy gibi platformlardaki kurslarla kendimi sürekli geliştirdim.
 
-Odak   Alanlarım
+Odak Alanlarım
 
 Backend: C#, ASP.NET Core (mimari odaklı), REST API’ler
 
@@ -13,6 +12,8 @@ Diğer: Redux, React Hooks, Material UI, Dapper, SQL/Mongo sorguları
 
 🧑‍💻 Deneyim & Projeler
 
+Üniversite 4. sınıfımda yürüttüğüm uzun soluklu proje çalışmalarının ardından, şu anda BinBin şirketinde Software Engineer olarak çalışmaya başladım.
+
 MERN yığını kullanan bir yazılım firmasında staj deneyimi edindim.
 
 Ağırlıklı olarak backend tarafında üretim yapıyor, ASP.NET Core mimarilerine odaklanıyorum.
@@ -21,7 +22,7 @@ Next.js + TypeScript ile e-ticaret odaklı projeler geliştirdim.
 
 API’lerle çalışan, veri setleri kullanan uygulamalar ve Dapper/Mongo/SQL sorguları içeren çalışmalarım mevcut.
 
-Firmalarla  yaptığım teknik görüşmeye ait case çalışmalarim da bulunuyor.</h3>
+Firmalarla yaptığım teknik görüşmeye ait case çalışmalarim da bulunuyor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="emulusoy" /> </p>
 
