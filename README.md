@@ -12,7 +12,7 @@ Diğer: Redux, React Hooks, Material UI, Dapper, SQL/Mongo sorguları
 
 🧑‍💻 Deneyim & Projeler
 
-Üniversite 4. sınıfımda yürüttüğüm uzun soluklu proje çalışmalarının ardından, şu anda BinBin şirketinde Software Engineer olarak çalışmaya başladım.
+Üniversite 4. sınıfımda yürüttüğüm uzun soluklu proje çalışmalarının ardından, şu anda BinBin şirketinde Engineer olarak çalışmaya başladım.
 
 MERN yığını kullanan bir yazılım firmasında staj deneyimi edindim.
 
