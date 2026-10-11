@@ -1,46 +1,91 @@
-<h1 align="center">Mustafa  Ulusoy</h1> <h3 align="center">Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Eğitimim boyunca odağımı yazılıma verdim; derslerin yanı sıra Udemy gibi platformlardaki kurslarla kendimi sürekli geliştirdim.
-
-Odak Alanlarım
-
-Backend: C#, ASP.NET Core (mimari odaklı), REST API’ler
-
-Frontend: React, Next.js, TypeScript
-
-MERN: React, JavaScript, Node.js, MongoDB
-
-Diğer: Redux, React Hooks, Material UI, Dapper, SQL/Mongo sorguları
-
-🧑‍💻 Deneyim & Projeler
-
-Üniversite 4. sınıfımda yürüttüğüm uzun soluklu proje çalışmalarının ardından, şu anda BinBin şirketinde Engineer olarak çalışmaya başladım.
-
-MERN yığını kullanan bir yazılım firmasında staj deneyimi edindim.
-
-Ağırlıklı olarak backend tarafında üretim yapıyor, ASP.NET Core mimarilerine odaklanıyorum.
-
-Next.js + TypeScript ile e-ticaret odaklı projeler geliştirdim.
-
-API’lerle çalışan, veri setleri kullanan uygulamalar ve Dapper/Mongo/SQL sorguları içeren çalışmalarım mevcut.
-
-Firmalarla yaptığım teknik görüşmeye ait case çalışmalarim da bulunuyor.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profile%20views&color=0e75b6&style=flat" alt="emulusoy" /> </p>
-
-
-- 🔭 Onion + CQRS + JWT + Redis + EF Core/PostgreSQL + Logging & Global Exception [Redis_JWT Case](https://github.com/emulusoy/Redis_JWT)
-
-- 👯 Micro-Frontend Next.js Project [NextJs Case](https://github.com/emulusoy/case_study)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa-ulusoy-emu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-ulusoy-emu" height="30" width="40" /></a>
+<h1 align="center">Mustafa Ulusoy</h1>
+<p align="center">
+  Backend Developer @ BinBin
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/mustafa-ulusoy-emu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Ulusoy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=emulusoy&label=Profil%20Ziyareti&color=0e75b6&style=flat-square" alt="Profil Ziyareti" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emulusoy&show_icons=true&locale=en&layout=compact" alt="emulusoy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emulusoy&show_icons=true&locale=en" alt="emulusoy" /></p>
+### 👋 Hakkımda
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emulusoy&" alt="emulusoy" /></p>
+Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri (YBS) mezunuyum. 
+
+Yaklaşık 1 yıldır **BinBin** bünyesinde çalışıyorum. Mesleğe Tech Support Engineer olarak başladım; bu süreçte şirket içi sistemleri, operasyonu ve veri akışını derinlemesine öğrendim. Zamanla şirket projelerinde görevler alarak backend tarafında gelişim sağladım ve şu an **Backend Developer** olarak yoluma devam ediyorum. 
+
+Support döneminden gelen sistem hakimiyetim sayesinde, bugün backend geliştirirken aynı zamanda canlıdaki aksaklıkları hızlıca tespit etme, kök neden analizi yapma ve sorunları bulgulamada aktif rol almaya devam ediyorum. Geliştirme süreçlerimde ise yapay zeka araçlarını iş akışıma dahil ederek backend, frontend ve test (QE) süreçlerini birlikte yürüten uçtan uca bir yaklaşımla ilerliyorum.
+
+###  [B12](https://github.com/emulusoy/emuList-M-S-G) — Kişisel Asistan
+
+ Dijital hayatımı tek merkezde toplamak için geliştirdiğim ve her gün bizzat kullandığım web uygulamam. İzlediğim/okuduğum medyaların arşivinden günlük ajandama, harcama takibinden AI destekli kalori ve seyahat planlayıcısına kadar tüm kişisel rutinlerimi buradan yönetiyorum.
+
+-  **Medya Arşivi:** İzlediğim ve okuduğum içeriklerin kaydı
+-  **Günlük Ajanda:** Plan ve notların takibi
+-  **Harcama Takibi:** Gelir-gider yönetimi
+-  **AI Kalori Takibi:** Yapay zekâ ile kalori hesaplama
+-  **AI Seyahat Planlayıcı:** Akıllı gezi planlama
+
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 💼 Case Çalışmaları
+
+- 📌 **[Redis_JWT Case](https://github.com/emulusoy/Redis_JWT)** — Onion Architecture, CQRS, JWT, Redis Cache, EF Core & PostgreSQL, Global Exception Handling ve Logging altyapısı.
+- 📌 **[NextJs Case Study](https://github.com/emulusoy/case_study)** — Micro-Frontend yaklaşımıyla Next.js ve TypeScript tabanlı modüler mimari çalışması.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <!-- Database & Cache -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MS_SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emulusoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emulusoy&layout=compact&theme=tokyonight&hide_border=true" alt="Diller" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emulusoy&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  Fikir alışverişi yapmak veya iletişime geçmek için <a href="https://linkedin.com/in/mustafa-ulusoy-emu"><b>LinkedIn</b></a> üzerinden ulaşabilirsin.
+</p>
