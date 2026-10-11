@@ -14,7 +14,7 @@
 
 ### 👋 Hakkımda
 
-Teknik Meslek Lisesi Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri (YBS) mezunuyum. 
+Bilişim Teknolojileri ve Akdeniz Üniversitesi Yönetim Bilişim Sistemleri (YBS) mezunuyum. 
 
 Yaklaşık 1 yıldır **BinBin** bünyesinde çalışıyorum. Mesleğe Tech Support Engineer olarak başladım; bu süreçte şirket içi sistemleri, operasyonu ve veri akışını derinlemesine öğrendim. Zamanla şirket projelerinde görevler alarak backend tarafında gelişim sağladım ve şu an **Backend Developer** olarak yoluma devam ediyorum. 
 
