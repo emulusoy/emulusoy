@@ -87,5 +87,5 @@ Support döneminden gelen sistem hakimiyetim sayesinde, bugün backend geliştir
 ---
 
 <p align="center">
-  Fikir alışverişi yapmak veya iletişime geçmek için <a href="https://linkedin.com/in/mustafa-ulusoy-emu"><b>LinkedIn</b></a> üzerinden ulaşabilirsin.
+  İletişime geçmek için <a href="https://linkedin.com/in/mustafa-ulusoy-emu"><b>LinkedIn</b></a> üzerinden ulaşabilirsin.
 </p>
